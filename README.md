@@ -12,6 +12,6 @@ I am currently studying the degree of Computer Science in the Faculty of Science
 #### Languages:
 
 ### My Github Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=EmmaAli1601&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaAli1601&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EmmaAli1604&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaAli1604&theme=radical&hide_border=true"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAli1601&layout=compact&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAli1604&layout=compact&theme=radical"/>|
