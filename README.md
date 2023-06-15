@@ -2,7 +2,7 @@
 I am currently studying the degree of Computer Science in the Faculty of Science from National Autonomous University of Mexico 🌮🌵. 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning react, java, python and django.
+- 🌱 I’m currently learning react, java and django.
 
 **My Reseach Interest**:
 
