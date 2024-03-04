@@ -15,8 +15,7 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <pre>
-💻 
-📚 I'm currently studying Computer Science in the Faculty of Science, UNAM.
+📚 I'm currently studying Computer Science in the Faculty of Science, UNAM. 💻 
 📝 I have a strong interest in Data analytics.
 🛠️ Currently working on my own website and other stuff.
 🌱 Learning about efficient and logical ways to solve problems and new programming lenguages. 
