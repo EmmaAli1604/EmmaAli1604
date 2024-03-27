@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmmaAli1604&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> 
 	<a href=""><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href=""><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/emma-sanchez-642b97300/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://www.instagram.com/alice.art1601/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
  <a href=""><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Youtube"/></a>
 </p>
 
