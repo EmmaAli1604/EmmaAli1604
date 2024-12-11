@@ -10,17 +10,17 @@
  <a href=""><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Youtube"/></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <pre>
 📚 I'm currently studying Computer Science in the Faculty of Science, UNAM. 💻 
 📝 I have a strong interest in Data analytics.
-🛠️ Currently working on my own website and other stuff.
+🛠️ Currently working on my own mobile application and tryng to make my portafolio.
 🌱 Learning about efficient and logical ways to solve problems and new programming lenguages. 
-🌟 Main language: Java 😁
-🚩 Interested in learning Flutter, know more about Golang, Python and R. 
+🌟 Main language: Java and Python😁
+🚩 Interested in learning Kotlin, know more about Golang, Python and R. 
 😃 I look forward to collaborate on impactful projects.
 </pre>
 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=C&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/r-0E3D75.svg?&style=for-the-badge&logo=R&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/flutter-25B3E8.svg?&style=for-the-badge&logo=flutterl&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/flutter-25B3E8.svg?&style=for-the-badge&logo=Kotlinl&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/git-351F8C.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 
 </div>
