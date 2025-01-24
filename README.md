@@ -20,7 +20,7 @@
 🛠️ Currently working on my own mobile application and tryng to make my portafolio.
 🌱 Learning about efficient and logical ways to solve problems and new programming lenguages. 
 🌟 Main language: Java and Python😁
-🚩 Interested in learning Kotlin, know more about Golang, Python and R. 
+🚩 Interested in learning Kotlin, know more about SQL, Pandas , Python and R. 
 😃 I look forward to collaborate on impactful projects.
 </pre>
 
@@ -72,9 +72,7 @@
 </span>
 
 ### My Github Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=EmmaAli1604&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaAli1604&theme=radical&hide_border=true"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAli1604&layout=compact&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=EmmaAli1604&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAli1604&layout=compact&theme=radical"/>|
 
 
 
