@@ -12,7 +12,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "240" src= "https://www.google.com/urlsa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgatocomputadoragifs&psig=AOvVaw3ztDD5RbuzUaYnS4WbqI4l&ust=1763410648926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC3rN6-95ADFQAAAAAdAAAAABAf"/>
 
 <pre>
 📚 I'm currently studying Computer Science in the Faculty of Science, UNAM. 💻 
